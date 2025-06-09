@@ -355,5 +355,9 @@ export default {
   },
   "haiku": {
     id: "6266"
-  }
+  },
+  "bluefin-7k": {
+    parentId: "Bluefin",
+    "id": "6284",
+  },
 } as AdaptorsConfig;
